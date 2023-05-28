@@ -1,11 +1,11 @@
-- 👋 Hi,,, I’m  Touqeer Hussain
-- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
-- 💞️ I’m looking to collaborate on IT 
-- ☕ <a href="https://www.buymeacoffee.com/softwebplanet" target="_blank">Buy me Coffee</a>
+- 👋 Hi,,, We are Softweb Planet
+- 🌱 "We would like to introduce ourselves as a software development company with over 5+ years of rich experience in providing software solutions focusing on all business sectors across the globe. We understand that every organization is unique in its culture, environment, leadership and vision. Every client is a unique individual, capable of achieving extraordinary heights in the right work environment. can count on our outstanding core competencies in support and commitment. We strive to emerge as one of the world's key software resources.
+- 💞️ We are looking to collaborate on IT 
+- ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:softwebplanet@gmail.com">softwebplanet@gmail.com</a>)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="https://touqeer-hussain.vercel.app">touqeer-hussain.vercel.app/</a>)<br/>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="http://softwebplanet.com/">softwebplanet.com</a>)<br/>
               }
 <h1>Connect with me </h1>
 
