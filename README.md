@@ -1,5 +1,7 @@
 - 👋 Hi,,, We are Softweb Planet
-- 🌱 "We would like to introduce ourselves as a software development company with over 5+ years of rich experience in providing software solutions focusing on all business sectors across the globe. We understand that every organization is unique in its culture, environment, leadership and vision. Every client is a unique individual, capable of achieving extraordinary heights in the right work environment. can count on our outstanding core competencies in support and commitment. We strive to emerge as one of the world's key software resources.
+- 🌱 "We would like to introduce ourselves as a software development company with over 5+ years of rich experience in providing software solutions focusing on all business sectors across the globe.
+       We understand that every organization is unique in its culture, environment, leadership and vision. Every client is a unique individual, capable of achieving extraordinary heights in the right work environment
+       can count on our outstanding core competencies in support and commitment. We strive to emerge as one of the world's key software resources.
 - 💞️ We are looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
