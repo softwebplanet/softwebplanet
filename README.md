@@ -1,16 +1,38 @@
-### Hi there 👋
+- 👋 Hi,,, I’m  Touqeer Hussain
+- 🌱 I’m currently working Javascript and .NET diffrent frameworks and libraries
+- 💞️ I’m looking to collaborate on IT 
+- ☕ <a href="https://www.buymeacoffee.com/softwebplanet" target="_blank">Buy me Coffee</a>
+- 📫 How to reach me: { <br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:softwebplanet@gmail.com">softwebplanet@gmail.com</a>)<br/>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="https://touqeer-hussain.vercel.app">touqeer-hussain.vercel.app/</a>)<br/>
+              }
+<h1>Connect with me </h1>
 
-<!--
-**softwebplanet/softwebplanet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%"></a>
+ <span>
+            <a href="https://github.com/softwebplanet" rel="nofollow"><img
+                        src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="5%" height="5%"></a></span>
+</span>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1> Languages and Tools </h1>
+
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,netlify,vscode,git,figma,github,codepen,nodejs,express,mongodb,postman,replit,linux,vim"/>
+<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/e4/18/d6/e418d6dd-dd96-2611-f3a8-d771498fead9/icon.png/230x0w.webp" width="6.5%" height="6.5%">
+
+<br>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=softwebplanet)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Softweb Planet's GitHub stats](https://github-readme-stats.vercel.app/api?username=softwebplanet&show_icons=true&theme=default)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwebplanet&repo=github-readme-stats&show_owner=true)](https://github.com/htouqeer938/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=softwebplanet)](https://github.com/htouqeer938/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=softwebplanet)](https://git.io/streak-stats)
+<br>
