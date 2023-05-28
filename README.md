@@ -5,7 +5,7 @@
 - 💞️ We are looking to collaborate on IT 
 - ☕ <a href="https://www.buymeacoffee.com/htouqeer938" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923011321938</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923374846627">+923374846627</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:softwebplanet@gmail.com">softwebplanet@gmail.com</a>)<br/>
      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="http://softwebplanet.com/">softwebplanet.com</a>)<br/>
               }
